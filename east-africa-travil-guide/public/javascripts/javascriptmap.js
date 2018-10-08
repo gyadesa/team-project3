@@ -1,5 +1,5 @@
- // Map script to link map markers to the firebase.
- function initMap() {
+// Map script to link map markers to the firebase.
+function initMap() {
     var infowindow = new google.maps.InfoWindow();
 
     var pierre = { lat: 46.932008, lng: 2.625380 };
@@ -30,7 +30,7 @@
                 music.renderSearchResults(searchResults, country);
             })
 
-            
+
         });
 
     }
