@@ -14,7 +14,7 @@ function openPage(pageName, elmnt, color) {
 }
 
 // Initialize Firebase
-var config = {
+/* var config = {
     apiKey: "AIzaSyBk2E-sl-lDdc5sBCNvLn8p1zBVcELoJ7I",
     authDomain: "globalmusicsearch.firebaseapp.com",
     databaseURL: "https://globalmusicsearch.firebaseio.com",
@@ -22,7 +22,7 @@ var config = {
     storageBucket: "globalmusicsearch.appspot.com",
     messagingSenderId: "958799204537"
 };
-firebase.initializeApp(config);
+firebase.initializeApp(config); */
 var database = firebase.database();
 //hide the Artist Description tab on page load
 $("#btn_ArtistInfo").hide();
