@@ -1,12 +1,21 @@
 // Initialize Firebase
+// Initialize Firebase
 var config = {
+    apiKey: "AIzaSyDJiiF3xsKm7oRbnoNvwdGCzIGs5526Rvc",
+    authDomain: "rockpaperscissordb.firebaseapp.com",
+    databaseURL: "https://rockpaperscissordb.firebaseio.com",
+    projectId: "rockpaperscissordb",
+    storageBucket: "rockpaperscissordb.appspot.com",
+    messagingSenderId: "93630317133"
+};
+/* var config = {
     apiKey: "AIzaSyCyFwNZjys0krmoC3U01ZYvYKzQ17_3BS8",
     authDomain: "train-time-2c1cc.firebaseapp.com",
     databaseURL: "https://train-time-2c1cc.firebaseio.com",
     projectId: "train-time-2c1cc",
     storageBucket: "",
     messagingSenderId: "591191230804"
-};
+}; */
 firebase.initializeApp(config);
 
 var trainData = firebase.database().ref();
