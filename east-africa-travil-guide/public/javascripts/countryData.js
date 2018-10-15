@@ -20,13 +20,13 @@ var countryData = [
     { "countryCode": "TR", "lat": "38.963745", "lng": "35.243322", "countryName": "Turkey" }, 
     { "countryCode": "US", "lat": "37.09024", "lng": "-95.712891", "countryName": "USA" }, 
     { "countryCode": "ZA", "lat": "-30.559482", "lng": "22.937506", "countryName": 'South Africa' }, */
-    { "countryCode": "MG", "lat": "-18.766947", "lng": "46.869107", "countryName": 'Madagascar' },
-    { "countryCode": "SO", "lat": "5.152149", "lng": "46.199616", "countryName": 'Somalia' },
-    { "countryCode": "ER", "lat": "15.179384", "lng": "39.782334", "countryName": 'Eritrea' },
-    { "countryCode": "DJ", "lat": "11.825138", "lng": "42.590275", "countryName": 'Djibouti' },
-    { "countryCode": "RW", "lat": "-1.940278", "lng": "29.873888", "countryName": 'Rwanda' },
-    { "countryCode": "UG", "lat": "1.373333", "lng": "32.290275", "countryName": 'Uganda' },
-    { "countryCode": "TZ", "lat": "-6.369028", "lng": "34.888822", "countryName": 'Tanzania' },
-    { "countryCode": "BI", "lat": "-3.373056", "lng": "29.918886", "countryName": 'Burundi' },
-    {"countryCode": "KE", "lat": "-0.023559", "lng": "37.906193", "countryName": "Kenya"},
-    {"countryCode": "ET", "lat": "9.145", "lng":"40.489673", "countryName":"Ethiopia"}]
+    {"countryCode": "ET", "lat": "9.011358", "lng":"38.722800", "countryName":"Ethiopia"}, //Torhilochi
+    {"countryCode": "ET", "lat": "9.011994", "lng":"38.729280", "countryName":"Ethiopia"}, //CocaCola
+    {"countryCode": "ET", "lat": "9.010468", "lng":"38.742542", "countryName":"Ethiopia"}, //Mexico
+    {"countryCode": "ET", "lat": "9.011868", "lng":"38.750406", "countryName":"Ethiopia"}, //Lagharre
+    {"countryCode": "KE", "lat": "9.011995", "lng":"38.757741", "countryName": "Ethiopia"}, //Stadium
+    {"countryCode": "KE", "lat": "9.010856", "lng":"38.763467", "countryName": "Ethiopia"}, //Estfanos
+    {"countryCode": "KE", "lat": "9.010586", "lng":"38.768879", "countryName": "Ethiopia"}, //Bambis Station
+    {"countryCode": "KE", "lat": "9.014908", "lng":"38.783387", "countryName": "Ethiopia"}, //Haya Hulet 2
+    {"countryCode": "KE", "lat": "9.017736", "lng":"38.796006", "countryName": "Ethiopia"}]//Lemi Hotel Station
+    //{"countryCode": "ET", "lat": "9.145", "lng":"40.489673", "countryName":"Ethiopia"}]

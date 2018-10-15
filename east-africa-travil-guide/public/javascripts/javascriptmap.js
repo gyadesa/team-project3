@@ -2,10 +2,10 @@
 function initMap() {
     var infowindow = new google.maps.InfoWindow();
 
-    var pierre = { lat: 46.932008, lng: 2.625380 };
+    var gamme = { lat: 9.011235, lng: 38.722928 };
     var country;
     var map = new google.maps.Map(
-        document.getElementById('map'), { zoom: 1.75, center: pierre });
+        document.getElementById('map'), { zoom: 13.75, center: gamme });
     // The marker, positioned at Uluru
 
 
